@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/Project%20Deployment/mlruns/0/7678e4aaa15c4295b5d596658b003f1d/artifacts
+end_time: 1728584311696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7678e4aaa15c4295b5d596658b003f1d
+run_name: rogue-mule-71
+run_uuid: 7678e4aaa15c4295b5d596658b003f1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728584311602
+status: 4
+tags: []
+user_id: HP
