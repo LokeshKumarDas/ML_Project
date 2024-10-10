@@ -19,6 +19,9 @@ from src.mlproject.utils import save_object, evaluate_models
 
 import mlflow
 from urllib.parse import urlparse
+import dagshub
+
+dagshub.init(repo_owner='LokeshKumarDas', repo_name='ML_Project', mlflow=True)
 
 
 @dataclass
