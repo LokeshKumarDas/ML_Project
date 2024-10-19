@@ -21,7 +21,7 @@ class DataIngestion:
     def initiate_data_ingestion(self):
         try:
             '''
-            # since my sql was giving error becauseof password I instead of using mysql community directly saved csv data to artifacts folder as raw.csv
+            # since my sql was giving error because of password I instead of using mysql community directly saved csv data to artifacts folder as raw.csv
             # for using sql uncomment these multiple comment and comment df = pd.read_csv(...) line
             
             df = read_sql_data()
